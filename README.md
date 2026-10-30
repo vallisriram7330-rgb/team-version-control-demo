@@ -4,7 +4,7 @@
 
 \## Project Description
 
-This project demonstrates Git and GitHub version control
+This project demonstrates collaborative development using Git.
 
 using branches, pull requests, code reviews, and merge conflicts.
 
