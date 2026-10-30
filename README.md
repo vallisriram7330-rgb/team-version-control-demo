@@ -4,9 +4,7 @@
 
 \## Project Description
 
-This project demonstrates GitHub collaboration and version control.
-
-using branches, pull requests, code reviews, and merge conflicts.
+This project demonstrates GitHub collaboration and version control using branches, pull requests, code reviews, and merge conflicts.
 
 
 
